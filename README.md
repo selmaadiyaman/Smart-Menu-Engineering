@@ -6,7 +6,7 @@
 
 ## 🖼️ Proje Görselliği
 
-![Dashboard Preview](./assets/dashboard_preview.png)  
+![Dashboard Preview]("C:\Users\lenovo\Downloads\3.png")  
 *Kategori filtreleme ve Menu Engineering Matrix örneği*
 
 ---
