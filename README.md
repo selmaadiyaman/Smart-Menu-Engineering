@@ -4,11 +4,13 @@
 
 ---
 
-## 🖼️ Proje Görselliği
+## 📊 Menü Analiz Görselleri  
 
-![Dashboard Preview]("C:\Users\lenovo\Downloads\3.png")  
-*Kategori filtreleme ve Menu Engineering Matrix örneği*
+### 1. Menu Engineering Matrix  
+![Menu Engineering Matrix](./assets/newplot.png)  
 
+### 2. Ürün Tablosu  
+![Ürün Tablosu](./assets/urun_tablosu.png)  
 ---
 
 ## 🚀 Proje Hakkında
@@ -49,7 +51,7 @@ SmartMenuEng/
 ├── dashboard1.py         # Dash scripti
 ├── run_dashboard.bat     # Tek tıkla çalıştırma
 ├── requirements.txt      # Gerekli kütüphaneler
-├── assets/               # Dashboard görselleri (örn. screenshot)
+├── assets/               # Dashboard görselleri
 └── README.md             # Proje açıklaması
 
 ## 🏆 Avantajlar
