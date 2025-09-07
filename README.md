@@ -7,10 +7,10 @@
 ## 📊 Menü Analiz Görselleri  
 
 ### 1. Menu Engineering Matrix  
-![Menu Engineering Matrix](./assets/newplot.png)  
+![Menu Engineering Matrix](https://github.com/selmaadiyaman/Smart-Menu-Engineering/blob/main/assets/assetsnewplot.png.png)  
 
 ### 2. Ürün Tablosu  
-![Ürün Tablosu](./assets/urun_tablosu.png)  
+![Ürün Tablosu](https://github.com/selmaadiyaman/Smart-Menu-Engineering/blob/main/assets/assetsurun_tablosu.png.png)  
 ---
 
 ## 🚀 Proje Hakkında
