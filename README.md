@@ -46,6 +46,7 @@ Tarayıcıda açılan sayfada dashboard’u görüntüleyin:
 http://127.0.0.1:8050/
 
 ## 📂 Proje Yapısı
+```
 SmartMenuEng/
 │
 ├── dashboard1.py         # Dash scripti
@@ -53,14 +54,12 @@ SmartMenuEng/
 ├── requirements.txt      # Gerekli kütüphaneler
 ├── assets/               # Dashboard görselleri
 └── README.md             # Proje açıklaması
-
+```
 ## 🏆 Avantajlar
 
 Menü stratejilerini görselleştirerek hızlı ve doğru karar alma
 
 İşletme performansını optimize etme
-
-Portföy sunumları için profesyonel görünüm
 
 ## 📌 Dikkat Edilecekler
 
@@ -70,6 +69,13 @@ Python 3.10+ ile uyumlu
 
 Windows ortamında .bat dosyası ile kolayca çalıştırılabilir
 
-## 📬 İletişim
+## 📜 Lisans
 
-Projeyle ilgili sorular için: https://www.linkedin.com/in/selma-adiyaman/
+Bu proje **akademik ve eğitim amaçlıdır**.  
+Ticari kullanım veya dağıtım için izin alınması gerekmektedir.  
+
+---
+
+## 📌 İletişim
+
+- Selma Adıyaman – [LinkedIn](https://www.linkedin.com/in/selma-adiyaman/)
